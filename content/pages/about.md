@@ -5,17 +5,15 @@ menu:
     name: "AboutMe"
 ---
 
-## Who am I
+## ¿Quien soy yo?
 
 Hola, aquí vas a leer un poco sobre mi 🤩
 
-> Excidit gente, si orat suo quaeque dura Calydon nata? Pars auro post stetit
-> adfusique imis amplexus. Agmina per fabricator
-> mittere Erymanthon habetque tot.
+> La grandeza esta en lo que hacemos, no en quienes somos.
+> - Lara Croft
 
-**Cineres Nile ipsa** origine discurrunt adest Unde, et quem clausus, imo,
-virens quoque tales, potuit. Ingentes insilit corpore nutricis praebebat roganti
-licuit. Denique a vestros adulantum in bella lina parte et arte generi di igitur
-quis, digitis pedes. Cum resonant tamen, namque in anxia. Non nostri trahens
-ancora.
+Me llamo Oscar Gutierrez, pero claro eso ya lo sabias.
 
+Soy residente de México, estudié ingeniería mecánica pero soy un apasionado por la programácion y tecnología en general, disfruto de aprender cosas nuevas y compartir mi conocimiento con los demas asi como conocer gente nueva que tenga los mismos gustos que yo. En mis tiempos libres me gusta jugar algún videojuego, ver películas o series o simplemente tomarme un tiempo para descansar. Me considero alguien relajado y un poco introvertido pero enfocado en mi trabajo y lo que me hace feliz
+
+- Software developer en proceso.
