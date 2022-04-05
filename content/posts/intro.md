@@ -14,3 +14,5 @@ Para mi la cultura profesional del software se basa en lo siguiente:
 - Respeto.
 - Dedicacion.
 - Aprendizaje.
+
+Esto es importante para mi.
