@@ -13,7 +13,7 @@ Hey! Quiero contarte todo lo que he aprendido en este camino:
 - Logica de programación
 - Jupyter Notebooks
 - Python
-- Conceptos basicos de Front-End
+- Conceptos básicos de Front-End
 - Html
 - Css
 - Js
