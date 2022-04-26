@@ -10,7 +10,7 @@ menu:
 Hola, aquí vas a leer un poco sobre mi 🤩
 
 > La grandeza esta en lo que hacemos, no en quienes somos.
-> - Lara Croft
+> * Lara Croft
 
 Me llamo Oscar Gutierrez, pero claro eso ya lo sabias.
 
