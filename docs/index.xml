@@ -6,13 +6,13 @@
     <description>Recent content in Launch X Bitácora de viaje on Bitácora de Viaje de Oscar Gutiérrez</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 27 Apr 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://iretr0o.github.io/my_launchx_blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 05 Apr 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://iretr0o.github.io/my_launchx_blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Herramientas de trabajo en el desarrollo de software</title>
-      <link>https://iretr0o.github.io/my_launchx_blog/posts/post_2/</link>
+      <link>https://iretr0o.github.io/my_launchx_blog/work-tools/</link>
       <pubDate>Wed, 27 Apr 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://iretr0o.github.io/my_launchx_blog/posts/post_2/</guid>
+      <guid>https://iretr0o.github.io/my_launchx_blog/work-tools/</guid>
       <description>Antes de entrar directamente al tema de las herramientas que considero que debe tener un desarrollador de software empecemos por el concepto básico ¿qué es una herramienta?
  El Diccionario de la Lengua Española menciona que: &amp;ldquo;un instrumento es un objeto fabricado, relativamente sencillo, con el que se puede realizar una actividad.&amp;rdquo;
  Con esta definición podemos concluir que las herramientas de trabajo de un desarrollador de software son aquellas que nos ayudan a construir aplicaciones de forma más sencilla.</description>
